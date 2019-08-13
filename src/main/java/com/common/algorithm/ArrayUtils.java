@@ -11,6 +11,10 @@ import java.util.TreeSet;
 
 public class ArrayUtils {
 
+	
+	
+	
+	
 	public List<Integer> minimumSubArraySumEqualToX(List<Integer> arr, int sum) {
 		
 		for(int i =1;i<arr.size(); i++) {
