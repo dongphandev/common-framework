@@ -2,6 +2,8 @@ package com.common.algorithm;
 
 import java.util.*;
 public class AdvanceStringDS {
+	
+	
 	public static int[] suffixArray(CharSequence S) {
 		int n = S.length();
 		Integer[] order = new Integer[n];
